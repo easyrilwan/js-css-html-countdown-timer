@@ -8,6 +8,7 @@ body {
     rgb(13, 17, 24) 100%
   );
   height: 100vh;
+  overflow: hidden;
   width: 100vw;
   color: aliceblue;
   font-family: "Trebuchet MS", Arial, sans-serif;
